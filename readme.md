@@ -4,4 +4,4 @@
 <img src="img/h6.jpg">
 
 处理之后：
-<img src="img/a-h6.jpg">
+<img src="img/a-h6.png">
